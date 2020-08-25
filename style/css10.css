@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	border: 1px solid #333333;
+}
+content:nth-child(1){
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 50px;
+	left: 60px;
+}
+.id01{
+	font-size: 20px;
+	background-color: darkgray;
+	margin-top: 30px;
+	margin-left: 40px;
+	float: left;
+	width: 400px;
+	height: 300px;
+}
+.id02{
+	font-size: 20px;
+	background-color: darkgray;
+	float: right;
+	margin-top: 30px;
+	margin-right: 40px;
+	width: 400px;
+	height: 300px;
+}
+.id03{
+	font-size: 20px;
+	background-color: darkgray;
+	margin-top: 30px;
+	margin-left: 40px;
+	float: left;
+	width: 400px;
+	height: 300px;
+}
+.id04{
+	font-size: 20px;
+	background-color: darkgray;
+	float: right;
+	margin-top: 30px;
+	margin-right: 40px;
+	width: 400px;
+	height: 300px;
+	overflow: scroll;
+}
+.qc{
+	width: 200px;
+	height: 170px;
+	border-radius: 25px;
+	background-color:lightgoldenrodyellow;
+	padding-left: 90px;
+	padding-top: 50px;
+	padding-bottom: 60px;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-weight: 600;
+}
+li{
+	line-height: 60px;
+	color: white;
+	font-size: 30px;
+}
+h1{
+	color: yellow;
+	text-align: center;
+	margin-top: 34px;
+}
+.main{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.head{
+	height: 110px;
+	background-color: salmon;
+}
+.hl{
+	font-size: 20px;
+	text-align: center;
+	height: 40px;
+	background-color: seagreen;
+}
+.left{
+	float: left;
+	width: 220px;
+	min-height: 700px;
+	background-color: blueviolet;
+}
+.right{
+	float: right;
+	width: 330px;
+	min-height: 700px;
+	background-color: blueviolet;
+}
+.content{
+	background-color: white;
+	min-height: 700px;
+}
+.footer{
+	color: lightgoldenrodyellow;
+	font-size: 30px;
+	text-align: center;
+	height: 40px;
+	clear: both;
+	background-color: tan;
+	padding-top: 7px;
+	padding-bottom: 1px;
+}
+a{
+	font-weight: 600;
+	line-height: 35px;
+	margin: 20px;
+	text-decoration: none;
+}
+a:link{
+	color: red;
+}
+a:active:hover{
+	color:orangered;
+}
+a:visited{
+	color: red;
+}

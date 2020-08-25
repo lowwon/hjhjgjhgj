@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+table{
+	border: 1px solid black;
+}
+td, th{
+	boder: 1px solid white;
+}
+caption{
+	margin-bottom: -18px;
+}
+th{
+	padding: 4px;
+	background-color: gray;
+	color: white;
+}
+td{
+	padding-left: 2px;
+}
+tr:nth-child(1){
+	background-color: #C6C6C6;
+}
+tr:nth-child(3){
+	background-color: #C6C6C6;
+}
+tr:nth-child(2){
+	background-color: darkgray;
+}
+tr:nth-child(4){
+	background-color: darkgray;
+}

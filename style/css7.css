@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	border : 2px solid #333333;
+	margin-bottom: 60px;
+}
+div:nth-child(1)
+{
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+}
+div:nth-child(2)
+{
+	width: 200px;
+	height: 80px;
+	overflow: hidden;
+	background-color: yellow;
+}
+div:nth-child(3)
+{
+	background-color: yellow;
+	width: 200px;
+	height: 100px;
+	overflow: scroll;
+}

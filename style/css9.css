@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	font-weight: 600;
+	font-size: 30px;
+	margin-left: 30px;
+}
+.h1{
+	font-weight: 800;
+	font-size: 250%;
+	color:yellow !important;
+	text-shadow: 2px 6px black;
+}
+span{
+	color: greenyellow;
+	font-size: 35px;
+	font-weight: 600;
+}
+.h0{
+	font-size: 350%;
+	margin-left: 30px;
+	color:green;
+	margin-top: 5px;
+}
+div{
+	background-color: #1695C8;
+}
+ul{
+	padding-top: 5px;
+	padding-bottom : 15px;
+}
+li{
+	font-size: 20px;
+	display: inline;
+	margin-right: 30px;
+}
+.h2{
+	margin-top: 15px;
+	float: right;
+}
+a:link{
+	color: red;
+	text-decoration: none;
+}
+a:visited{
+	color: red;
+	text-decoration: none;
+}
+a:link:hover{
+	color: yellow;
+}
+a:visited:hover{
+	color: yellow;
+}
+button{
+	margin-left: 30px;
+	width: 100px;
+	font-size: 20px;
+	background-color: cornflowerblue;
+	border: 1px solid cornflowerblue;
+}
+button:hover{
+	color: yellow;
+}
+

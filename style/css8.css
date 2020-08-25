@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+hr{
+	background-color : aqua;
+}
+.id00{
+	color:blue;
+	font-size: 400%;
+	margin: 0;
+}
+.id01{
+	font-size: 140%;
+	padding: 20px;
+	background-color: aqua;
+	color: #305FAD;
+}
+p{
+	color: #878787;
+	font-size: 35px;
+}
+img{
+	width: 700px;
+}
+.id02{
+	margin-top: 20px;
+	float: right;
+}
+.id04{
+	font-size :250%;
+	color: #666666;
+}

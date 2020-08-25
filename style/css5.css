@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+div{
+	border:10px solid white;
+	color: white;
+	text-indent: 60px;
+	font-size: 70px;
+	font-weight: 600;
+	padding: 70px;
+}
+
+.id01{
+	background-image: URL("/bg1.jpg");
+}
+.id02{
+	background-image: URL("/bg2.jpg")
+}
+.id03{
+	background-image: URL("/bg3.jpg")
+}
